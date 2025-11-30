@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e29dc2e-8d25-4e0c-8df1-467dbee9e0f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32jdgrmsUblrhATFbjhov0f8OtW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q01ConvertDecimalToBinary.executor": "Run",
+    "Application.Q02ConvertBinaryToDecimal.executor": "Run",
+    "Application.Q04CheckIfTheithBitIsSetOrNot.executor": "Run",
+    "Application.Q06ClearTheithBit.executor": "Run",
+    "Application.Q07ToggleTheithBit.executor": "Run",
+    "Application.Q08RemoveTheLastSetBit.executor": "Run",
+    "Application.Q09CheckIfTheNumberIsAPowerOfTwo.executor": "Run",
+    "Application.Q10CountTheNumberOfSetBitsInANumber.executor": "Run",
+    "Application.Q11MinimumBitFlipsToConvertNumber.executor": "Run",
+    "Application.Q12PowerSetPrintAllSubsets.executor": "Run",
+    "Application.Q13SingleNumber1.executor": "Run",
+    "Application.Q14SingleNumber2.executor": "Run",
+    "Application.Q3SwapTwoNumbersWithoutThirdVariable.executor": "Run",
+    "Application.Q4CheckIfTheithBitIsSetOrNot.executor": "Run",
+    "Application.S01DeterminingEven_OddNumbers.executor": "Run",
+    "Application.S02CheckPrimeNumber.executor": "Run",
+    "Application.S03LeapYear.executor": "Run",
+    "Application.S04SortArray.executor": "Run",
+    "Application.SetTheithBit.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Naitik Parmar/IdeaProjects/Practice/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e29dc2e-8d25-4e0c-8df1-467dbee9e0f2" name="Changes" comment="" />
+      <created>1757938034108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757938034108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

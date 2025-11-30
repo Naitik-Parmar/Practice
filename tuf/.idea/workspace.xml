@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb8d9a38-a62c-4b1c-bd51-d461a239e648" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuf.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/Arrays/M1/M11LeaderInAnArray.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pdwmZDnGuzFePPtFbkxfOj3wjW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A10UnionOf2SortedArrays.executor": "Run",
+    "Application.A11Merge2SortedArrays.executor": "Run",
+    "Application.A12IntersectionOf2SortedArrays.executor": "Run",
+    "Application.A16LongestSubarrayWithSumK.executor": "Run",
+    "Application.A1LargestElement.executor": "Run",
+    "Application.A1SelectionSort.executor": "Debug",
+    "Application.A2BubbleSort.executor": "Run",
+    "Application.A2SecondLargest.executor": "Run",
+    "Application.A3CheckIfSorted.executor": "Run",
+    "Application.A3InsertionSort.executor": "Run",
+    "Application.A4RemoveDuplicatesfromArray.executor": "Run",
+    "Application.A5LeftRotateArrayBy1.executor": "Run",
+    "Application.A5temp.executor": "Run",
+    "Application.A6LeftRotateArraysByDPlaces.executor": "Run",
+    "Application.A6RightRotateArrayBy1.executor": "Run",
+    "Application.A7RightRotateByDPlaces.executor": "Run",
+    "Application.A8MoveZeroesToTheEnd.executor": "Run",
+    "Application.A9LinearSearch.executor": "Run",
+    "Application.E13FindMissingNumber.executor": "Run",
+    "Application.E14MaximumConsecutive1s.executor": "Run",
+    "Application.E15FindNumberThatAppearOnceAndOthersTwice.executor": "Run",
+    "Application.H1PascalsTriangle.executor": "Run",
+    "Application.H2PascalsTrianglePrint1RowAtN.executor": "Run",
+    "Application.H3PascalsTrianglePrint.executor": "Run",
+    "Application.H4MajorityElementNby3.executor": "Run",
+    "Application.H5Three3Sum.executor": "Run",
+    "Application.H6Four4Sum.executor": "Run",
+    "Application.M10NextPermutation.executor": "Run",
+    "Application.M11LeaderInAnArray.executor": "Run",
+    "Application.M12LongestConsecutiveSequenceInAnArray.executor": "Run",
+    "Application.M13MatrixTraversal.executor": "Run",
+    "Application.M14SetMatrixZeroes.executor": "Run",
+    "Application.M15RotateMatrixOrImageBy90degree.executor": "Run",
+    "Application.M16SpiralTraversalOfAMatrix.executor": "Run",
+    "Application.M17CountAllSubarraysWithGivenSum.executor": "Run",
+    "Application.M1TwoSum.executor": "Run",
+    "Application.M2SortArray0s1s2s.executor": "Run",
+    "Application.M3MajorityElementMoreThanHalfArray.executor": "Run",
+    "Application.M4KadanesAlgorithmOrMaximumSubarraySum.executor": "Run",
+    "Application.M5KadanesAlgoWithMaxSubArrayReturn.executor": "Run",
+    "Application.M6BestTimeToBuyAndSellStock.executor": "Run",
+    "Application.M7RearrangeElementsBySign.executor": "Run",
+    "Application.M8SeparatePosNegInArray.executor": "Run",
+    "Application.M9SeparatePosNegInArrayNotEqual.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.P1HashMap.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Naitik Parmar/IdeaProjects/tuf/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8d9a38-a62c-4b1c-bd51-d461a239e648" name="Changes" comment="" />
+      <created>1733109423325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733109423325</updated>
+    </task>
+    <servers />
+  </component>
+</project>

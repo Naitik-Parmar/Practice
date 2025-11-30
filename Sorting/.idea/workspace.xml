@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81b23a57-29e2-49ea-a438-b4cb2ba2af34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eJ4n2KWS8SZ08BYOy8ZIU3STjW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A1BubbleSort.executor": "Debug",
+    "Application.A1BubbleSortTest.executor": "Run",
+    "Application.A1CycleSort.executor": "Debug",
+    "Application.A2SelectionSort.executor": "Run",
+    "Application.A2SelectionSortTest.executor": "Run",
+    "Application.A3InsertionSort.executor": "Run",
+    "Application.A3InsertionSortTest.executor": "Run",
+    "Application.A4CycleSort.executor": "Run",
+    "Application.ArraysDS.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.D4HashMapDemo.executor": "Run",
+    "Application.E1Message.executor": "Debug",
+    "Application.E2NumbersExample.executor": "Run",
+    "Application.E3NumbersExampleRecursion.executor": "Debug",
+    "Application.E4Fibonacci.executor": "Run",
+    "Application.E5BinarySearch.executor": "Run",
+    "Application.FactorialDP.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FibonacciDP.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.P1Pattern1.executor": "Run",
+    "Application.P28Pattern28.executor": "Run",
+    "Application.P2Pattern2.executor": "Run",
+    "Application.P30Pattern30.executor": "Run",
+    "Application.P31Pattern31.executor": "Run",
+    "Application.P3Pattern3.executor": "Run",
+    "Application.P4Pattern4.executor": "Run",
+    "Application.P5Pattern5.executor": "Run",
+    "Application.Q1MissingNumber268.executor": "Debug",
+    "Application.Q3FindTheDuplicateNumber287.executor": "Run",
+    "Application.QueueDemo.executor": "Run",
+    "Application.RecursionDemo.executor": "Run",
+    "Application.RecursionDemo2.executor": "Run",
+    "Application.RecursionFinalDemo.executor": "Run",
+    "Application.S1StringPalindrome.executor": "Run",
+    "Application.StackDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Naitik Parmar/IdeaProjects/Sorting/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.E4Fibonacci">
+    <configuration name="E1Message" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.E1Message" />
+      <module name="Sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2NumbersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.E2NumbersExample" />
+      <module name="Sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E3NumbersExampleRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.E3NumbersExampleRecursion" />
+      <module name="Sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E4Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.E4Fibonacci" />
+      <module name="Sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E5BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.E5BinarySearch" />
+      <module name="Sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E4Fibonacci" />
+        <item itemvalue="Application.E5BinarySearch" />
+        <item itemvalue="Application.E3NumbersExampleRecursion" />
+        <item itemvalue="Application.E2NumbersExample" />
+        <item itemvalue="Application.E1Message" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81b23a57-29e2-49ea-a438-b4cb2ba2af34" name="Changes" comment="" />
+      <created>1711609513421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711609513421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/A1BubbleSort.java</url>
+          <line>8</line>
+          <properties class="A1BubbleSort" method="bubble">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/test/A2SelectionSortTest.java</url>
+          <line>10</line>
+          <properties class="com.test.A2SelectionSortTest" method="selection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cyclesort/A1CycleSort.java</url>
+          <line>11</line>
+          <properties class="com.cyclesort.A1CycleSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cyclesort/Q1MissingNumber268.java</url>
+          <line>8</line>
+          <properties class="com.cyclesort.Q1MissingNumber268" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
